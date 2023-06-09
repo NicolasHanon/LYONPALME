@@ -272,11 +272,15 @@ Finalisation avec la création des dossiers **static** et **templates**.
 
 Modélisation de la base de données avec [@drawsql](https://drawsql.app/).
 
-![Screenshot](http://image.noelshack.com/fichiers/2022/49/2/1670314488-screenshot-1.png)
+![Screenshot](UMLcase.png)
 
 Diagramme de cas d'utilisation.
 
-![Screenshot](http://image.noelshack.com/fichiers/2022/49/2/1670315610-screenshot-1.png)
+![Screenshot](useCase.png)
+
+Diagramme d'activité.
+
+![Screenshot](activityCase.png)
 
 Installation du projet.
 
